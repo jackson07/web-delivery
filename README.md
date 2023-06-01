@@ -1,3 +1,13 @@
+Consiste em um Web Delivery, com alguns pratos mostrados nos cards.  
+
+Possui um Header, com a logo, um botão para a página inicial e um filtro, sendo possível pesquisar pelo nome do produto. Além de um carrinho mostrando quantos itens foram adicionados.
+Na tela inicial, é possível ver alguns cards com alguns pratos.
+Ao clicar encima, é possível abrir uma página com o título, descrição, preço e imagem do prato, além de conseguir adicionar ao carrinho.
+
+Projeto feito em ReatJS.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
