@@ -1,0 +1,26 @@
+.header {
+  background-color: #ff0000;
+  position: fixed;
+  width: 100%;
+  z-index: 1;
+}
+
+.header > div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+
+.logo_img {
+  height: 40px;
+}
+
+.initial_page {
+  color: black;
+  font-size: 20px;
+}
+
+.initial_ink {
+  text-decoration: none;
+}
